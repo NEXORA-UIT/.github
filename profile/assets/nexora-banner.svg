@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="430" viewBox="0 0 1600 430" role="img" aria-labelledby="title desc">
+  <title id="title">Nexora — Project work, with clarity</title>
+  <desc id="desc">A dark navy banner with the Nexora mark, a project board motif, and blue and teal accents.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#26344A" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="430" rx="28" fill="#0B1220"/>
+  <rect width="1600" height="430" rx="28" fill="url(#grid)" opacity=".5"/>
+  <path d="M0 336H630" stroke="#2563EB" stroke-width="4"/>
+  <path d="M630 336H790" stroke="#18B6A4" stroke-width="4"/>
+  <circle cx="1390" cy="54" r="170" fill="#142444"/>
+  <circle cx="1390" cy="54" r="125" fill="none" stroke="#2563EB" stroke-width="2" opacity=".6"/>
+  <circle cx="1390" cy="54" r="78" fill="none" stroke="#18B6A4" stroke-width="2" opacity=".7"/>
+  <circle cx="1302" cy="124" r="7" fill="#18B6A4"/>
+  <circle cx="1457" cy="168" r="7" fill="#2563EB"/>
+  <rect x="1030" y="107" width="432" height="232" rx="18" fill="#111C2E" stroke="#33445D" stroke-width="2"/>
+  <rect x="1052" y="128" width="120" height="188" rx="12" fill="#17253A"/>
+  <rect x="1185" y="128" width="120" height="188" rx="12" fill="#17253A"/>
+  <rect x="1318" y="128" width="122" height="188" rx="12" fill="#17253A"/>
+  <circle cx="1073" cy="151" r="5" fill="#7A8798"/>
+  <circle cx="1206" cy="151" r="5" fill="#2563EB"/>
+  <circle cx="1339" cy="151" r="5" fill="#18B6A4"/>
+  <rect x="1064" y="171" width="96" height="46" rx="8" fill="#25354D"/>
+  <rect x="1064" y="226" width="96" height="62" rx="8" fill="#25354D"/>
+  <rect x="1197" y="171" width="96" height="62" rx="8" fill="#25354D"/>
+  <rect x="1197" y="242" width="96" height="46" rx="8" fill="#25354D"/>
+  <rect x="1330" y="171" width="98" height="46" rx="8" fill="#25354D"/>
+  <rect x="1330" y="226" width="98" height="62" rx="8" fill="#25354D"/>
+  <rect x="110" y="82" width="68" height="68" rx="20" fill="#2563EB"/>
+  <path d="M129 129V103L159 131V104" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="204" y="133" fill="#E9F0FA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="33" font-weight="700" letter-spacing="5">NEXORA</text>
+  <text x="110" y="226" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="56" font-weight="700">PROJECT WORK,</text>
+  <text x="110" y="292" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="56" font-weight="700">WITH <tspan fill="#62A0FF">CLARITY.</tspan></text>
+  <text x="112" y="374" fill="#A6B4C8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" letter-spacing="3">WORKSPACES  /  BOARDS  /  TEAM COLLABORATION</text>
+</svg>
